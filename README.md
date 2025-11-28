@@ -3,7 +3,7 @@
 
 A react component that takes in a .crypto domain name and allows for donations to be sent to addresses associated with the domain.
 
-Component gets contract 0xa6E7cEf2EDDEA66352Fd68E5915b60BDbb7309f5 on ethereum mainnet and calls getData function.
+Component gets contract 0xfC5aEF058B2EAE5849769d6881dA0Fd8451aCe64 on ethereum mainnet and calls getData function.
 
 If you want to add more currencies or other improvements please feel free to raise a PR. 
 
